@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\yella\\Downloads\\50805VEX-master\\50805VEX-master\\include",
+        "c:\\Users\\yella\\OneDrive\\Desktop\\50805VEX-master-Testing\\50805VEX-master\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "c:\\Users\\yella\\AppData\\Roaming\\Code\\User\\globalStorage\\sigbots.pros\\install\\pros-toolchain-windows\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++20",
+      "intelliSenseMode": "gcc-arm",
+      "compileCommands": "c:\\Users\\yella\\Downloads\\50805VEX-master\\50805VEX-master\\compile_commands.json",
+      "browse": {
+        "path": [
+          "c:\\Users\\yella\\OneDrive\\Desktop\\50805VEX-master-Testing\\50805VEX-master"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
